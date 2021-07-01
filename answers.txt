@@ -248,9 +248,12 @@ MongoDB Enterprise atlas-10lvwz-shard-0:PRIMARY>
 
 
 
+
+
+
+
+
 tail -50 ~/.dbshell
-
-
 
 help
 show dbs
